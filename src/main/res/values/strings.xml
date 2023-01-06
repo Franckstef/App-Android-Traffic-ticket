@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Labo2</string>
+    <string name="create_new">new</string>
+    <string name="open">open</string>
+    <string name="supprimer">Supprimer</string>
+    <string name="nom">Nom:</string>
+    <string name="prenom">Prénom:</string>
+    <string name="zone">Zone:</string>
+    <string name="travaux">Zone de travaux ou scolaire</string>
+    <string name="vitesse">Vitesse:</string>
+    <string name="montant">Montant de l\'amende:</string>
+    <string name="nomprenom">NOM/PRÉNOM</string>
+    <string name="date">DATE</string>
+    <string name="montant2">MONTANT</string>
+    <string name="action_favorite">action</string>
+    <string name="erreur">***Entrez tous les champs correctement***</string>
+
+    <string-array name="limitations">
+        <item>Select</item>
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>60</item>
+        <item>70</item>
+        <item>80</item>
+        <item>90</item>
+        <item>100</item>
+    </string-array>
+</resources>
